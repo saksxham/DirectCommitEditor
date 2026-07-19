@@ -1,5 +1,3 @@
-# ideal-chainsaw
-
 # Simple Python Editor — Run & Commit
 
 A minimal Tkinter-based Python editor that saves, runs a Python file, then stages, commits, and pushes the change to the repository containing the file.
